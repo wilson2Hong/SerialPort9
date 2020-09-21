@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>ButtonImage.png</file>
+        <file>Disconnect.svg</file>
+    </qresource>
+</RCC>
